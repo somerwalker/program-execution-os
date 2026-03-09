@@ -4,12 +4,12 @@
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Part of the **Transformation Operating System** framework.
+Part of the **Transformation Operating Framework**.
 
 See the architecture overview:  
-https://github.com/somerwalker/transformation-operating-system
+https://github.com/somerwalker/transformation-operating-framework
 
-A practical operating system for running complex technology programs.
+A practical operating framework for running complex technology programs.
 
 Large initiatives often struggle not because the work is impossible, but because coordination across teams becomes difficult. Dependencies multiply, priorities shift, and communication breaks down.
 
