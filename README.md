@@ -1,4 +1,7 @@
 # Program Execution OS
+![Program Management](https://img.shields.io/badge/Program-Management-blue)
+![Delivery](https://img.shields.io/badge/Execution-Framework-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A practical operating system for running complex technology programs.
 
@@ -42,3 +45,44 @@ C --> D[Execution Coordination]
 D --> E[Risk Management]
 E --> F[Progress Reporting]
 F --> G[Outcome Evaluation]
+
+---
+
+## When to Use This Framework
+
+Program Execution OS is designed for complex initiatives that require coordination across multiple teams, stakeholders, and technical systems.
+
+This framework is particularly useful when:
+
+- managing large infrastructure or platform initiatives
+- coordinating delivery across multiple engineering teams
+- running enterprise transformation programs
+- aligning technical delivery with executive strategy
+- establishing governance for cross-functional initiatives
+
+---
+
+## Repository Structure
+
+Additional documentation will outline practical frameworks and templates used to coordinate complex programs.
+
+program-execution-os
+├── docs/
+│   ├── program intake
+│   ├── governance model
+│   ├── cross-team coordination
+│   ├── risk management
+│   ├── executive reporting
+│   └── delivery cadence
+
+---
+
+## Author
+
+Somer Walker  
+Enterprise Program Leader | AI Transformation | Operational Excellence
+
+Background leading large-scale infrastructure, cloud, and AI initiatives across global organizations.
+
+LinkedIn  
+https://www.linkedin.com/in/somerwalker
