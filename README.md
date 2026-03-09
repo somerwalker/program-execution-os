@@ -17,6 +17,19 @@ Program Execution OS introduces a structured model for managing large initiative
 
 ---
 
+## Execution Architecture
+
+Program Execution OS connects four operational layers:
+
+1. Strategic Commitment
+2. Planning Architecture
+3. Execution Governance
+4. Delivery Telemetry
+
+These layers create a system that enables complex initiatives to move from commitment to delivery with visibility and accountability.
+
+---
+
 # Common Reasons Programs Struggle
 
 Many complex initiatives fall behind or lose momentum due to organizational rather than technical problems.
@@ -203,6 +216,16 @@ Contributions and suggestions are welcome.
 # Contributing
 
 Contributions are welcome. If you have ideas for improving the frameworks, templates, or examples in this repository, please review the contribution guidelines in [`CONTRIBUTING.md`](CONTRIBUTING.md) and open an issue or pull request.
+
+---
+
+## Intellectual Property
+
+Program Execution OS is an original framework developed by Somer Walker.
+
+This repository provides conceptual documentation and examples for educational and informational purposes.
+
+Commercial use of the methodology or derivative consulting frameworks requires permission from the author.
 
 ---
 
