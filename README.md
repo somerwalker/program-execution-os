@@ -209,32 +209,44 @@ Future updates may include:
 - guidance for scaling governance in large organizations  
 - integration with AI transformation operating models  
 
-Contributions and suggestions are welcome.
-
----
-
-# Contributing
-
-Contributions are welcome. If you have ideas for improving the frameworks, templates, or examples in this repository, please review the contribution guidelines in [`CONTRIBUTING.md`](CONTRIBUTING.md) and open an issue or pull request.
-
 ---
 
 ## Intellectual Property
 
-Program Execution OS is an original framework developed by Somer Walker.
+The frameworks and methodologies documented in this repository are original work created by Somer Walker as part of the **Transformation Operating Framework**.
 
-This repository provides conceptual documentation and examples for educational and informational purposes.
+This repository provides conceptual documentation, examples, and templates for educational and professional reference.
 
-Commercial use of the methodology or derivative consulting frameworks requires permission from the author.
+Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
 
 ---
 
-# Author
+## Framework Context
 
-**Somer Walker**  
-Enterprise Program Leader | AI Transformation | Operational Excellence
+This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
 
-Background leading large-scale infrastructure, cloud, and AI initiatives across global organizations. Focused on turning strategy into disciplined execution.
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+---
+
+## Author
+
+Somer Walker  
+Enterprise Program Leader | Program Execution Systems | Operational Excellence
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
+
+---
+
+## Contributing
+
+Suggestions, improvements, and additional examples are welcome.  
+Please review `CONTRIBUTING.md` before submitting a pull request.
+
+---
+
+## Copyright
+
+Copyright © 2026 Somer Walker
