@@ -1,64 +1,46 @@
-# Contributing to Program Execution OS
+# Contributing
 
-Thank you for your interest in improving the **Program Execution OS** repository.
+Thank you for your interest in contributing to this repository.
 
-This project documents frameworks, patterns, and tools for structuring and delivering complex programs and large-scale initiatives.
+This project is part of the **Transformation Operating Framework**, a collection of frameworks and documentation focused on aligning strategy, governance, transformation initiatives, and execution across complex organizations.
 
-The goal of this repository is to share practical approaches that help organizations translate strategy into predictable execution.
-
----
-
-## Types of Contributions Welcome
-
-Contributions that improve the clarity and usefulness of the documentation are welcome. Examples include:
-
-- Documentation improvements
-- Clarifying examples
-- Additional diagrams
-- Corrections or suggested refinements
-- Supplemental examples of execution patterns
-
-Please keep contributions focused on improving the **documentation and explanatory materials** rather than redefining the core framework.
+Master framework repository:  
+https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Contribution Process
+## Contribution Guidelines
 
-1. Fork the repository
-2. Create a branch for your proposed change
-3. Make your updates
-4. Submit a pull request with a clear explanation of the improvement
+Contributions that improve the clarity and usefulness of the documentation are welcome.
 
-Pull requests should include a brief description of:
+Examples include:
 
-- what was changed
-- why the change improves the documentation
-- any relevant context
+- documentation improvements
+- diagram improvements
+- additional examples or explanations
+- corrections or clarifications
+- formatting or readability improvements
+
+Contributions should focus on improving documentation rather than modifying the core framework structure.
 
 ---
 
 ## Intellectual Property
 
-This repository contains conceptual frameworks and documentation related to the **Program Execution OS** methodology.
+By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project documentation.
 
-All core methodology, framework structure, and associated intellectual property remain the property of the project author.
+All core methodology, frameworks, and associated intellectual property remain the property of the project author.
 
-By submitting a contribution, you agree that your contribution may be incorporated into the project documentation and distributed as part of the repository.
-
-Contributions do **not grant rights to reproduce, commercialize, or redistribute the Program Execution OS methodology outside the scope of this repository without permission.**
+Submission of a contribution does not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without written permission from the author.
 
 ---
 
-## Code of Conduct
+## How to Contribute
 
-Please keep discussions constructive and focused on improving the clarity and usefulness of the material.
-
-Respectful collaboration helps improve the value of the shared documentation.
+1. Fork the repository  
+2. Create a branch for your change  
+3. Submit a pull request with a clear explanation of the update  
 
 ---
 
-## Questions
-
-If you have questions about the framework or contribution process, please open an issue in the repository.
-
-Thank you for helping improve the clarity and accessibility of the Program Execution OS documentation.
+Thank you for helping improve the clarity and usefulness of the Transformation Operating Framework.
