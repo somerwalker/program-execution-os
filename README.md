@@ -9,7 +9,7 @@ Part of the **Transformation Operating Framework**.
 See the architecture overview:  
 https://github.com/somerwalker/transformation-operating-framework
 
-A practical operating framework for running complex technology programs.
+A practical operating model for executing complex technology programs within the **Execution layer of the Transformation Operating Framework**.
 
 Large initiatives often struggle not because the work is impossible, but because coordination across teams becomes difficult. Dependencies multiply, priorities shift, and communication breaks down.
 
@@ -17,7 +17,7 @@ Program Execution OS introduces a structured model for managing large initiative
 
 ---
 
-## Execution Architecture
+## Execution Layers
 
 Program Execution OS connects four operational layers:
 
@@ -68,7 +68,17 @@ Reporting should help teams make decisions, remove blockers, and maintain moment
 
 # Core Execution Model
 
-Program Execution OS structures complex initiatives around five execution pillars:
+Program Execution OS structures complex initiatives around five execution pillars.
+
+```mermaid
+flowchart TB
+
+A[Program Definition]
+--> B[Governance & Decision Authority]
+--> C[Cross-Team Coordination]
+--> D[Risk & Issue Management]
+--> E[Executive Visibility]
+```
 
 1. **Program Definition**  
    Clear scope, ownership, and success criteria.
@@ -94,19 +104,19 @@ Program Execution OS organizes complex initiatives around clear layers of coordi
 ```mermaid
 flowchart TD
 
-    A[Executive Strategy] --> B[Program Governance]
+A[Strategic Commitment]
+--> B[Planning Architecture]
 
-    B --> C[Program Leadership]
+B --> C[Execution Governance]
 
-    C --> D[Workstream Coordination]
+C --> D[Workstream Coordination]
 
-    D --> E[Delivery Teams]
+D --> E[Delivery Teams]
 
-    C --> F[Risk Management]
-    C --> G[Executive Reporting]
+D --> F[Delivery Telemetry]
 
-    F --> B
-    G --> A
+F --> C
+F --> A
 ```
 
 ---
@@ -138,6 +148,8 @@ This framework is particularly useful when:
 - establishing governance for cross-functional initiatives  
 
 Programs that involve multiple teams, shared dependencies, and executive oversight benefit from clear operating structures that guide coordination, decision-making, and reporting.
+
+Execution outputs from Program Execution OS are implemented through delivery practices defined in the Technical Program Management Toolkit repository.
 
 ---
 
@@ -207,8 +219,26 @@ Future updates may include:
 - expanded templates for dependency tracking  
 - sample executive dashboards  
 - guidance for scaling governance in large organizations  
-- integration with AI transformation operating models  
+- integration with AI transformation operating models
 
+## Relationship to the Transformation Operating Framework
+
+Program Execution OS represents the **Execution layer** of the Transformation Operating Framework. It provides the operational structures used to coordinate complex initiatives once strategy, governance, and transformation patterns have been defined.
+
+```mermaid
+flowchart TB
+
+Strategy[Strategy]
+--> Governance[Governance]
+--> Patterns[Technology Transformation Patterns]
+--> Execution[Program Execution OS]
+--> Delivery[Technical Program Management Toolkit]
+```
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+---
 ---
 
 ## Intellectual Property
@@ -218,15 +248,6 @@ The frameworks and methodologies documented in this repository are original work
 This repository provides conceptual documentation, examples, and templates for educational and professional reference.
 
 Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
-
----
-
-## Framework Context
-
-This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
-
-Transformation Operating Framework  
-https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
