@@ -19,7 +19,7 @@ A risk register provides visibility into potential issues that could affect deli
 
 ## How This Register Is Used
 
-Risk registers referenced in `docs/04-risk-management.md` are typically reviewed during regular program cadence meetings to ensure risks remain visible and mitigation actions are progressing.
+Risk registers, referenced in `docs/04-risk-management.md`, are typically reviewed during regular program cadence meetings to ensure risks remain visible and mitigation actions are progressing.
 
 Program leaders may escalate risks through governance structures when:
 
