@@ -52,6 +52,29 @@ Program intake helps organizations:
 
 Well-defined programs are easier to coordinate, measure, and govern.
 
+## From Intake to Program Charter
+
+Once program intake information has been reviewed and stakeholders are aligned on the program objective and scope, the next step is formalizing the initiative through a **Program Charter**.
+
+The program charter defines the program at a high level and establishes the leadership, scope boundaries, and success criteria that will guide execution. Unlike detailed delivery plans, the charter focuses on clarifying purpose, ownership, and expected outcomes before execution structures are applied.
+
+Typical charter elements include:
+
+- program objective
+- business context
+- scope boundaries
+- executive sponsor
+- program lead
+- participating teams
+- success criteria
+- high-level timeline or phases
+
+The charter serves as the foundation for the governance, coordination, and reporting structures described in the Program Execution OS.
+
+An example charter is available here:
+
+`examples/example-program-charter.md`
+
 ---
 ---
 
