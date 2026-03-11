@@ -1,9 +1,28 @@
 
 # Program Intake
 
-This framework helps leaders define a program clearly before execution begins.
+This guidance helps leaders define a program clearly before execution begins within the Program Execution OS model.
 
 Complex initiatives often begin with broad ambition but insufficient definition. A structured intake process helps clarify the objective, scope, ownership, and success criteria before teams begin execution.
+
+## Intake Flow
+
+```mermaid
+flowchart LR
+
+A[Program Objective]
+--> B[Business Context]
+
+B --> C[Scope & Boundaries]
+
+C --> D[Leadership Ownership]
+
+D --> E[Participating Teams]
+
+E --> F[Dependencies & Milestones]
+
+F --> G[Success Criteria]
+```
 
 ## Key Intake Elements
 
@@ -19,6 +38,8 @@ A strong program intake process should define:
 - dependencies
 - success criteria
 
+These elements form the foundation for governance, planning, and delivery coordination within Program Execution OS.
+
 ## Why Intake Matters
 
 Program intake helps organizations:
@@ -31,3 +52,15 @@ Program intake helps organizations:
 
 Well-defined programs are easier to coordinate, measure, and govern.
 
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.
+Commercial use or derivative consulting frameworks requires permission from the author.
