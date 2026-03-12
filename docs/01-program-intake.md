@@ -1,44 +1,41 @@
-
 # Program Intake
 
 This guidance helps leaders define a program clearly before execution begins within the Program Execution OS model.
 
 Complex initiatives often begin with broad ambition but insufficient definition. A structured intake process helps clarify the objective, scope, ownership, and success criteria before teams begin execution.
 
-## Intake Flow
+## Intake Definition
+
+Program intake defines the core information required to understand and govern a program before execution begins.
+
+The intake structure typically covers three areas:
+
+- **Business Definition** — why the program exists and what success looks like  
+- **Leadership and Stakeholders** — who owns the program and who must be involved  
+- **Scope and Execution Factors** — the boundaries, dependencies, and timeline influences that shape delivery
+
+Together, these elements establish the shared understanding required to begin planning, governance, and delivery coordination within the Program Execution OS.
 
 ```mermaid
 flowchart LR
 
-A[Program Objective]
---> B[Business Context]
+A[Program Intake]
 
-B --> C[Scope & Boundaries]
+A --> B[Business Definition]
+A --> C[Leadership and Stakeholders]
+A --> D[Scope and Execution Factors]
 
-C --> D[Leadership Ownership]
+B --> B1[Program Objective]
+B --> B2[Business Context]
+B --> B3[Success Criteria]
 
-D --> E[Participating Teams]
+C --> C1[Leadership Ownership]
+C --> C2[Participating Teams]
+C --> C3[Key Stakeholders]
 
-E --> F[Dependencies & Milestones]
-
-F --> G[Success Criteria]
+D --> D1[Scope & Boundaries]
+D --> D2[Dependencies & Milestones]
 ```
-
-## Key Intake Elements
-
-A strong program intake process should define:
-
-- program objective
-- business context
-- scope and boundaries
-- executive sponsor
-- program lead
-- participating teams
-- high-level milestones
-- dependencies
-- success criteria
-
-These elements form the foundation for governance, planning, and delivery coordination within Program Execution OS.
 
 ## Why Intake Matters
 
