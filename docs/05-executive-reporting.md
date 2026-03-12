@@ -8,7 +8,7 @@ Executive reporting is not simply a repetition of program status reports. Operat
 
 Executive reporting serves a different purpose. It distills the most important signals from operational reporting and communicates them in a concise format that helps executives understand program health, major risks, and any decisions or interventions required.
 
-Program leaders review program status, risks, dependencies, and delivery telemetry, then distill the most important developments into concise messages that help executives understand what matters, make decisions, or remove blockers.
+Program leaders review program status, risks, dependencies, and delivery telemetry, then distill the most important developments into concise messages that help executives understand what matters, make decisions, or remove blockers. None of the Executive's direct reports involved in your program/portfolio should be surprised by what you put in a report and send to an Executive.
 
 ```mermaid
 flowchart LR
